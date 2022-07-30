@@ -1,0 +1,27 @@
+.nike-bg-info {
+    background-color: #0dcaf0;
+}
+
+.nike-btn-get-started {
+    background-color: #0d6efd;
+}
+
+.w-100 {
+    width: 75%;
+}
+
+.d-block {
+    display: ruby-base-container;
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: #cccbca;
+}
+
+.card {
+    --bs-card-spacer-y: 0.5rem;
+    --bs-card-spacer-x: 0.5rem;
+    --bs-card-title-spacer-y: 0.25rem;
+    --bs-card-border-width: 1px;
+}
